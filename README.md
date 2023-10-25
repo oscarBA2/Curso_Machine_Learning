@@ -7,3 +7,15 @@ Carpeta/dia-1-machine-learning
     -Práctica de los condicionales en Python
   >3.M5 - 03 - Bucles
     -Práctica de los bucles en Python
+# MARTES 24/10/23
+Carpeta/Dia-2-machine-learning
+  > 1.M5 - 10 - Pandas
+    -Práctica básica sobre pandas
+  >2.SpaceX - 1 - Data Collection Api (1)
+    -Práctica de como usar una API
+  >3.SpaceX - 3 -EDA Using SQL
+    -Práctica de EDA usando SQL
+  >4.SpaceX - 4 - EDA with Data Visualization
+    -Práctica para la visualización de EDA
+  >5.dataset_part_2 (1)
+    -Base de Datos
