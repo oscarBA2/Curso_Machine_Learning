@@ -19,7 +19,7 @@ Carpeta/Dia-2-machine-learning
     -Práctica para la visualización de EDA
   >5.dataset_part_2 (1)
     -Base de Datos
-> # MIERCOLES 25/10/23
+ # MIERCOLES 25/10/23
 Carpeta/dia-3-machine-learning
   > 1.M5 - 06 - Introducción a Machine Learning con Scikit-Learn
     -Práctica Introducción a Machine Learning con Scikit-Learn en google coolage
