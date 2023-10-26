@@ -19,3 +19,11 @@ Carpeta/Dia-2-machine-learning
     -Práctica para la visualización de EDA
   >5.dataset_part_2 (1)
     -Base de Datos
+> # MIERCOLES 25/10/23
+Carpeta/dia-3-machine-learning
+  > 1.M5 - 06 - Introducción a Machine Learning con Scikit-Learn
+    -Práctica Introducción a Machine Learning con Scikit-Learn en google coolage
+  >2.M5 - 09 - Folium
+    -Práctica de entrenamiento de folium
+  >3.Prophet v2 - Predecir el valor de Bitcoin
+    -Práctica de Prophet para predecir el valor del bitcoin
